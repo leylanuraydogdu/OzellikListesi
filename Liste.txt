@@ -1,5 +1,5 @@
-1. Karanlık mod özelliği
+1. Anlık bildirim desteği
 2. AI öneri sistemi
-3. Anlık bildirim desteği
+3. Karanlık mod özelliği
 4. Kullanıcı dostu arayüz
 5. Hızlı performans
