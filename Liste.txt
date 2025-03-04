@@ -2,3 +2,4 @@
 2. AI öneri sistemi
 3. Anlık bildirim desteği
 4. Kullanıcı dostu arayüz
+5. Hızlı performans
