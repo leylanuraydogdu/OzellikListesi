@@ -1,5 +1,5 @@
-1. Mesajlaşma
+1. Durum paylaşma
 2. Görüntülü arama
-3. Durum paylaşma
+3. Mesajlaşma
 4. Grup sohbeti
 5. Dosya paylaşımı
