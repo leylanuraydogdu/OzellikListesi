@@ -2,3 +2,4 @@
 2. Görüntülü arama
 3. Durum paylaşma
 4. Grup sohbeti
+5. Dosya paylaşımı
